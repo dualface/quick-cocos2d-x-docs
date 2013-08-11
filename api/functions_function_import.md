@@ -1,0 +1,6 @@
+
+## import()
+
+> import(moduleName, currentModuleName)
+
+
