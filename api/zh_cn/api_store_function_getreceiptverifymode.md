@@ -1,0 +1,6 @@
+
+## Store.getReceiptVerifyMode()
+
+> Store.getReceiptVerifyMode()
+
+
