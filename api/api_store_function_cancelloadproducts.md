@@ -1,6 +1,0 @@
-
-## Store.cancelLoadProducts()
-
-> Store.cancelLoadProducts()
-
-

@@ -1,6 +1,0 @@
-
-## handler()
-
-> handler(target, method)
-
-

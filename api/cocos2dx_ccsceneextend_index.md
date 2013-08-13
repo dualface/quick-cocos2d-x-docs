@@ -1,3 +1,0 @@
-
-# cocos2dx.CCSceneExtend
-

@@ -1,6 +1,0 @@
-
-## Store.getReceiptVerifyServerUrl()
-
-> Store.getReceiptVerifyServerUrl()
-
-
