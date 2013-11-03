@@ -1,0 +1,24 @@
+
+subject: "quick-cocos2d-x 从零开始""
+name: "quick-get-started"
+chapters:
+  chapter-get-quick:
+    subject: "下载并安装 quick-cocos2d-x"
+    sections:
+      system-requirements: "系统需求"
+      setup: "下载并安装"
+      run-samples: "运行示例程序"
+  chapter-create-project:
+    subject: "开始我们的打地鼠项目"
+  chapter-create-first-scene:
+    subject: "创建第一个游戏场景，并添加图像"
+  chapter-make-animation:
+    subject: "让图像动起来"
+  chapter-touch-events:
+    subject: "检测玩家触摸屏幕"
+  chapter-sounds:
+    subject: "播放音效和音乐"
+  chapter-save-game-state:
+    subject: "保存玩家的游戏状态"
+  chapter-run-on-device:
+    subject: "在设备上运行我们的游戏"
